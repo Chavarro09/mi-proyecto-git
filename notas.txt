@@ -1,1 +1,3 @@
 Notas del proyecto: practicar un commit por cada cambio pequeño.
+- Pendiente: practicar cómo deshacer cambios.
+- Pendiente: documentar cada comando en el README.
